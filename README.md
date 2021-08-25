@@ -10,6 +10,11 @@ It helps to execute DOS command which we execute on command prompt.
 
 ## What the output looks like
 ![Alt Text](https://github.com/AnjaliSSingh/MyFolder/blob/master/Screenshot%20(618).png)
+In this image I firstly entered the keyword '**help**' to know all the keywords which will be used.Then i created two files '**hello.txt**' and '**hello2.txt**'.
+After that I wrote some data in **hello.txt**.
+
+
+![Alt Text]()
 
 
 
