@@ -9,7 +9,7 @@ It helps to execute DOS command which we execute on command prompt.
 **UI** : Command User Interface
 
 ## What the output looks like
-![Alt Text]https://github.com/AnjaliSSingh/MyFolder/blob/master/Screenshot%20(618).png
+![Alt Text](https://github.com/AnjaliSSingh/MyFolder/blob/master/Screenshot%20(618).png)
 
 
 
