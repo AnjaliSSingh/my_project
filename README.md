@@ -14,7 +14,12 @@ In this image I firstly entered the keyword '**help**' to know all the keywords 
 After that I wrote some data in **hello.txt**.
 
 
+![Alt Text](https://github.com/AnjaliSSingh/MyFolder/blob/master/Screenshot%20(619).png)
+In this image, read some data from **hello.txt** and by using **stat** keyword I got the statistical information of the file **hello.txt**.
+
+
 ![Alt Text]()
+
 
 
 
