@@ -18,7 +18,10 @@ After that I wrote some data in **hello.txt**.
 In this image, read some data from **hello.txt** and by using **stat** keyword I got the statistical information of the file **hello.txt**.
 
 
-![Alt Text]()
+![Alt Text](https://github.com/AnjaliSSingh/MyFolder/blob/master/Screenshot%20(620).png)
+And here finally exited the Virtual File System.
+
+There are many more commands which can be given to a file in this project such as **open,close,rm,truncate,clear etc**.
 
 
 
